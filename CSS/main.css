@@ -10,25 +10,6 @@ header{
     text-align: center;
     padding: 25px;
 }
-.navbar{
-    background-color: hsl(0, 2%, 18%);
-    height: 50px;
-}
-aside{
-    width: 20%;
-    float: left;
-    padding: 10px;
-}
-section{
-    width: 40%;
-    float: left;
-    padding: 10px;
-}
-article{
-    width: 40%;
-    float: left;
-    padding: 10px;
-}
 footer{
     display: block;
     clear: both;
@@ -37,6 +18,10 @@ footer{
     padding: 25px;
 }
 /* Navigation bar */
+.navbar{
+    background-color: hsl(0, 2%, 18%);
+    height: 50px;
+}
 .navbar ul{
     list-style: none;
     background-color: hsl(0, 0%, 7%);
